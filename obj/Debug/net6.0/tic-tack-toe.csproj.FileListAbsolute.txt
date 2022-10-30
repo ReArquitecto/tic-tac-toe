@@ -1,0 +1,15 @@
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\bin\Debug\net6.0\tic-tack-toe.exe
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\bin\Debug\net6.0\tic-tack-toe.deps.json
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\bin\Debug\net6.0\tic-tack-toe.runtimeconfig.json
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\bin\Debug\net6.0\tic-tack-toe.dll
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\bin\Debug\net6.0\tic-tack-toe.pdb
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\tic-tack-toe.csproj.AssemblyReference.cache
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\tic-tack-toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\tic-tack-toe.AssemblyInfoInputs.cache
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\tic-tack-toe.AssemblyInfo.cs
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\tic-tack-toe.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\tic-tack-toe.dll
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\refint\tic-tack-toe.dll
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\tic-tack-toe.pdb
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\tic-tack-toe.genruntimeconfig.cache
+C:\Users\jacob\Documents\CSE210\tic-tack-toe\obj\Debug\net6.0\ref\tic-tack-toe.dll
